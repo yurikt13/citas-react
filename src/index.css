@@ -1,0 +1,5 @@
+/* Llamar archivos internos de tailwindcss por medio de los archivos de configuración creados */
+/* agregando paquetes */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
